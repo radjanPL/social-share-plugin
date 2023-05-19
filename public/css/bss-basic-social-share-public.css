@@ -1,0 +1,10 @@
+
+.basic-share-buttons {
+    display: inline-block;
+    float: right;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.basic-share-buttons li {
+    display: inline-block;
+}
